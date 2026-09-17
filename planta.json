@@ -1,0 +1,23 @@
+{
+    "nombre": "Rodriguez y londoño SA",
+    "estado": "A good ",
+    "ubicacion": "Medellin",
+    "responsable": "juan perez",
+    "equipos": [
+        {
+            "nombre": "Motor principal",
+            "potencia_kw": 15,
+            "estado": "En revision"
+        },
+        {
+            "nombre": "Boba alimentacion",
+            "potencia_kw": 22.5,
+            "estado": "En revision"
+        },
+        {
+            "nombre": "Compresor auxiliar",
+            "potencia_kw": 18,
+            "estado": "operativo"
+        }
+    ]
+}
