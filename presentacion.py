@@ -8,9 +8,9 @@ def mostrar_datos_planta (planta):
 
 def mostrar_equipos(equipos):
 
-  for equipo in equipos:
+  for indice, equipo in enumerate(equipos, start=1):
       print(
-          f"{equipo['nombre']} - "
+          f"{indice}. {equipo['nombre']} - "
           f"{equipo['potencia_kw']} kW - "
           f"{equipo['estado']}"
     )
