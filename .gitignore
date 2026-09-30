@@ -2,3 +2,5 @@
 __pycache__/
 .pytest_cache/
 historial_equipos.txt
+future_wallet_export/
+future_wallet_export.py
